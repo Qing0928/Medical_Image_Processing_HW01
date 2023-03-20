@@ -21,7 +21,7 @@ trans.toNegatives(src_img, negatives_img);
 trans.logTransform(src_img, log_img);
 ```
 
-## Power-Law(gamma)
+## Power-Law(Gamma)
 
 ```
 double gamma = 0.04;
